@@ -1,4 +1,4 @@
-# Debrief - Material from completely non-required reading & exploration alongside my graduate program
+# Debrief - Material from completely non-required reading & exploration alongside my Graduate program
 
 This basically is a list of things that blew my mind/provided intuition to what I was into over the period of grad school. None of them were of any kind of required reading for school. I sort of wish some of them were.
 Some are full-texts, some are Amazon links (Maybe you can borrow it off a library. I did). 
