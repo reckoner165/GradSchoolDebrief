@@ -38,7 +38,7 @@ I have classified them by the general phase that I was in while discovering each
 
 [Submarine Cable Map 2016](http://submarine-cable-map-2016.telegeography.com/)
 
-[A Standard for the Transmission of IP Datagrams on Avian Carriers](https://tools.ietf.org/html/rfc1149)
+[RFC1149: A Standard for the Transmission of IP Datagrams on Avian Carriers](https://tools.ietf.org/html/rfc1149)
 
 [Error: Glitch, Noise and Jam in Modern Media Cultures - Mark Nunues](https://www.amazon.com/Error-Glitch-Noise-Media-Cultures/dp/1441110216)
 
