@@ -34,7 +34,7 @@ I have classified them by the general phase that I was in while discovering each
 [Next-generation video encoding techniques for 360 video and VR](https://code.facebook.com/posts/1126354007399553/next-generation-video-encoding-techniques-for-360-video-and-vr/)
 
 
-### Internet Architecture & Protocols + Probability & Stochastic Processes
+### Internet Architecture + Stochastic Processes
 
 [Submarine Cable Map 2016](http://submarine-cable-map-2016.telegeography.com/)
 
