@@ -8,7 +8,7 @@ I have classified them by the general phase that I was in while discovering each
 
 ### Signal / Audio Processing
 
-[Soundscapes: Our Environment and the Tuning of the World - Murray Schafer]()
+[Soundscapes: Our Environment and the Tuning of the World - Murray Schafer](https://www.amazon.com/Soundscape-Sonic-Environment-Tuning-World-ebook/dp/B005VRKQX8)
 
 [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 
@@ -21,6 +21,7 @@ I have classified them by the general phase that I was in while discovering each
 [Laser Cut Record - Amanda Ghassaei](http://www.amandaghassaei.com/projects/laser_cut_record/)
 
 [Algorhythmics: Understanding Micro Temporality in Computational Cultures](http://computationalculture.net/article/algorhythmics-understanding-micro-temporality-in-computational-cultures)
+
 
 ### Image / Video Processing
 
@@ -39,7 +40,7 @@ I have classified them by the general phase that I was in while discovering each
 
 [A Standard for the Transmission of IP Datagrams on Avian Carriers](https://tools.ietf.org/html/rfc1149)
 
-[Error: Glitch, Noise and Jam in Modern Media Cultures - Mark Nunues]()
+[Error: Glitch, Noise and Jam in Modern Media Cultures - Mark Nunues](https://www.amazon.com/Error-Glitch-Noise-Media-Cultures/dp/1441110216)
 
 [Network Culture: Politics for the Information Age - Tiziana Terranova](https://compthink.files.wordpress.com/2011/04/terranova-network-culture.pdf)
 
@@ -47,7 +48,7 @@ I have classified them by the general phase that I was in while discovering each
 
 [Protocol - Alexander Galloway](http://beforebefore.net/136c/s16/media/galloway-protocol.pdf)
 
-[Information - James Gleick]()
+[Information - James Gleick](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235)
 
 [The Unknown Wireless Network Going to Wall Street](https://sniperinmahwah.wordpress.com/2016/06/13/the-unknown-wireless-network-going-to-wall-street/)
 
@@ -60,30 +61,29 @@ I have classified them by the general phase that I was in while discovering each
 [Grooming Students for a lifetime of surveillance](https://modelviewculture.com/pieces/grooming-students-for-a-lifetime-of-surveillance)
 
 
+### Critical & Political Theory
 
-### Critical Theory 
+[The Human Use of Human Beings - Norbert Wiener](https://monoskop.org/images/5/51/Wiener_Norbert_The_Human_Use_of_Human_Beings.pdf)
 
-[The Human Use of Human Beings - Norbert Wiener]()
+[Exploit - Alexander Galloway](http://dss-edit.com/plu/Galloway-Thacker_The_Exploit_2007.pdf)
 
-[Exploit - Alexander Galloway]()
-
-[A Hacker Manifesto - McKenzie Wark]()
+[A Hacker Manifesto - McKenzie Wark](https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf)
 
 [After Capitalism, The Derivative](http://www.publicseminar.org/2017/04/derivative/#.WU7xpRPyt-U)
 
+[The United States of Work](https://newrepublic.com/article/141663/united-states-work)
 
 
-### Designing / Games 
+### Design / Games 
 
-[Design of Everyday Things - Don Norman]()
+[Design of Everyday Things - Don Norman](http://cc.droolcup.com/wp-content/uploads/2015/07/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
 
-[Designs on the Public: The Private Lives of Public Spaces - Kristine F. Miller]()
+[Designs on the Public: The Private Lives of Public Spaces - Kristine F. Miller](http://www.jstor.org/stable/10.5749/j.ctttv5pq)
 
 [Questioning the 3D Printing Revolution](https://modelviewculture.com/pieces/questioning-the-3d-printing-revolution)
 
 
-
-### Machine Learning
+### Machine Learning and AI
 
 [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 
@@ -93,6 +93,7 @@ I have classified them by the general phase that I was in while discovering each
 
 [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
 
+[Image to Image: Demo of Generative Networks](https://affinelayer.com/pixsrv/index.html)
 
-
+[Extreme Style Machines: Generating Textures using Random Neural Networks](https://nucl.ai/blog/extreme-style-machines/)
 
