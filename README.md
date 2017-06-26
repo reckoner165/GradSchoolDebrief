@@ -8,7 +8,7 @@ I have classified them by the general phase that I was in while discovering each
 
 ### Signal / Audio Processing
 
-[Soundscapes: Our Environment and the Tuning of the World - Murray Schafer](https://www.amazon.com/Soundscape-Sonic-Environment-Tuning-World-ebook/dp/B005VRKQX8)
+[Soundscapes: Our Environment and the Tuning of the World](https://www.amazon.com/Soundscape-Sonic-Environment-Tuning-World-ebook/dp/B005VRKQX8) - Murray Schafer
 
 [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 
@@ -25,9 +25,9 @@ I have classified them by the general phase that I was in while discovering each
 
 ### Image / Video Processing
 
-[Glitch Moment(um) - Rosa Menkmann](https://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+[Glitch Moment(um)](https://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf) - Rosa Menkmann
 
-[Vernacular of File Formats - Rosa Menkmann](https://www.flickr.com/photos/r00s/20265843548)
+[Vernacular of File Formats](https://www.flickr.com/photos/r00s/20265843548) - Rosa Menkmann
 
 [Enhancement of Human Color Vision by breaking binocular redundancy](https://arxiv.org/abs/1703.04392)
 
@@ -40,15 +40,15 @@ I have classified them by the general phase that I was in while discovering each
 
 [RFC1149: A Standard for the Transmission of IP Datagrams on Avian Carriers](https://tools.ietf.org/html/rfc1149)
 
-[Error: Glitch, Noise and Jam in Modern Media Cultures - Mark Nunues](https://www.amazon.com/Error-Glitch-Noise-Media-Cultures/dp/1441110216)
+[Error: Glitch, Noise and Jam in Modern Media Cultures](https://www.amazon.com/Error-Glitch-Noise-Media-Cultures/dp/1441110216) - Mark Nunes
 
-[Network Culture: Politics for the Information Age - Tiziana Terranova](https://compthink.files.wordpress.com/2011/04/terranova-network-culture.pdf)
+[Network Culture: Politics for the Information Age](https://compthink.files.wordpress.com/2011/04/terranova-network-culture.pdf) - Tiziana Terranova
 
-[Networks of New York - Ingrid Burrington](http://seeingnetworks.in/nyc/)
+[Networks of New York](http://seeingnetworks.in/nyc/) - Ingrid Burrington
 
-[Protocol - Alexander Galloway](http://beforebefore.net/136c/s16/media/galloway-protocol.pdf)
+[Protocol](http://beforebefore.net/136c/s16/media/galloway-protocol.pdf) - Alexander Galloway
 
-[Information - James Gleick](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235)
+[Information](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) - James Gleick
 
 [The Unknown Wireless Network Going to Wall Street](https://sniperinmahwah.wordpress.com/2016/06/13/the-unknown-wireless-network-going-to-wall-street/)
 
@@ -63,11 +63,11 @@ I have classified them by the general phase that I was in while discovering each
 
 ### Critical & Political Theory
 
-[The Human Use of Human Beings - Norbert Wiener](https://monoskop.org/images/5/51/Wiener_Norbert_The_Human_Use_of_Human_Beings.pdf)
+[The Human Use of Human Beings](https://monoskop.org/images/5/51/Wiener_Norbert_The_Human_Use_of_Human_Beings.pdf) - Norbert Wiener
 
-[Exploit - Alexander Galloway](http://dss-edit.com/plu/Galloway-Thacker_The_Exploit_2007.pdf)
+[Exploit](http://dss-edit.com/plu/Galloway-Thacker_The_Exploit_2007.pdf) - Alexander Galloway
 
-[A Hacker Manifesto - McKenzie Wark](https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf)
+[A Hacker Manifesto](https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf) - McKenzie Wark
 
 [After Capitalism, The Derivative](http://www.publicseminar.org/2017/04/derivative/#.WU7xpRPyt-U)
 
@@ -76,9 +76,9 @@ I have classified them by the general phase that I was in while discovering each
 
 ### Design / Games 
 
-[Design of Everyday Things - Don Norman](http://cc.droolcup.com/wp-content/uploads/2015/07/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
+[Design of Everyday Things](http://cc.droolcup.com/wp-content/uploads/2015/07/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - Don Norman
 
-[Designs on the Public: The Private Lives of Public Spaces - Kristine F. Miller](http://www.jstor.org/stable/10.5749/j.ctttv5pq)
+[Designs on the Public: The Private Lives of Public Spaces](http://www.jstor.org/stable/10.5749/j.ctttv5pq) - Kristine F. Miller
 
 [Questioning the 3D Printing Revolution](https://modelviewculture.com/pieces/questioning-the-3d-printing-revolution)
 
